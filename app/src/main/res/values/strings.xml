@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pretest</string>
+    <string name="title_activity_child_survey">ChildSurvey</string>
+</resources>
